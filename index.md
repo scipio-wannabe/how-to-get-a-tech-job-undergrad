@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## HOW TO GET A CS UNDERGRAD JOB
 
-You can use the [editor on GitHub](https://github.com/scipio-wannabe/how-to-get-a-cs-job-undergrad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You're an undergraduate who wants a job in the software industry. I am here to help you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Why? Because when I was in your shoes, I was totally clueless, and it sucked. Frankly, if I hadn't gotten _significant_ early guidance from upperclassmen, I would be unemployed. This is my way of passing it on.
 
-### Markdown
+I don't pretend to know anything, so please triangulate anything I say with individuals of superior judgement. Defer to the experts. I'm still writing this, though, because I managed to (partly) make it through the game:
+- as of Spring 2021, I'm a Columbia University CS major finishing up my final year
+- during college, I interned at four companies of wildly different sizes and sectors
+- I'll be going to work at a FAANG company after graduation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anyways, here are the most actionable pieces of advice I could come up with!
 
-```markdown
-Syntax highlighted code block
+not connections; friends, partners
 
-# Header 1
-## Header 2
-### Header 3
+interviewing
 
-- Bulleted
-- List
+negotiating
+[This is a good foundation to use.](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scipio-wannabe/how-to-get-a-cs-job-undergrad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Please reach out to me here!](https://github.com/scipio-wannabe/reachout)
